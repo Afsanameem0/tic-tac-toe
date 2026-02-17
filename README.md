@@ -3,7 +3,7 @@ A simple browser-based Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 This project demonstrates DOM manipulation, event handling, game logic implementation, and responsive UI design.
 ## 🚀 Live Demo
-Play here: https://afsanameem0.github.io/Tic-Tac-Toe-game/
+Play here:  https://afsanameem0.github.io/tic-tac-toe/
 ## ✨ Features
 - Two-player gameplay
 - Turn-based logic (X and O)
